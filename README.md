@@ -14,7 +14,7 @@
 </p>
 
 
-)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/yunagi490/github-readme-stats)
 
 
 ## Stats
