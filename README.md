@@ -14,7 +14,11 @@
 </p>
 
 
+<<<<<<< HEAD
 ![](https://github.com/yunagi490/github-readme-stats)
+=======
+)](https://github.com/yunagi490/github-readme-stats)
+>>>>>>> 322f5c7453b76e31aa738abb1948b8bc2fc26c7c
 
 
 ## Stats
